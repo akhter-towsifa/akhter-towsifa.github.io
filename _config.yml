@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Towsifa POOP Akhter" #"Your Name / Site Title"
+title                    : "Towsifa Akhter" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Towsifa Akhter"
 description              : &description "Physics PhD in exp high energy physics with TAMU CMS collaboration"
