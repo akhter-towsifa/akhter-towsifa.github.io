@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Towsifa Akhter" #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Towsifa Akhter"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://akhter-towsifa/akhter-towsifa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "akhter-towsifa/akhter-towsifa.github.io"
 
@@ -28,7 +28,7 @@ author:
   location         : "Meyrin, Switzerland"
   employer         : "Texas A&M University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "towsifa@tamu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -55,9 +55,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "towsifaakhter" # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "towsifa-akhter" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
