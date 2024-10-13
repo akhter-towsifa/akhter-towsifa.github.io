@@ -35,9 +35,11 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-5965-2386"
+  inspire          : "https://inspirehep.net/authors/2838325"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
